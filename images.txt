@@ -1,1 +1,1 @@
-docker.io/dragonflyoss/client:v1.0.9
+docker.io/milvusdb/milvus-cli:v0.4.0
