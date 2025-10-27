@@ -1,4 +1,1 @@
-docker.io/node:14.15.3-alpine
-docker.io/nginx:latest
-docker.io/anapsix/alpine-java:8_server-jre_unlimited
-docker.io/openjdk:8-alpine 
+docker.io/nacos/nacos-server:v2.2.0
