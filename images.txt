@@ -1,2 +1,2 @@
-docker.io/php:7.4-fpm-alpine
-docker.io/composer:latest
+curlimages/curl:latest
+
