@@ -1,2 +1,2 @@
-curlimages/curl:latest
+xnx3/tcdn:latest
 
