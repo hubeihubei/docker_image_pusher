@@ -1,2 +1,1 @@
-xnx3/tcdn:latest
-
+docker.io/library/php:7.4-apache
