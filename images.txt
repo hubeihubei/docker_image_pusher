@@ -1,1 +1,1 @@
-docker.io/library/php:7.4-apache
+docker.io/lss233/kirara-agent-framework:latest
