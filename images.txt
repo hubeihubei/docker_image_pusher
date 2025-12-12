@@ -1,1 +1,1 @@
-docker.io/lss233/kirara-agent-framework:latest
+ubuntu:24.04
